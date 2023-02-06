@@ -1,0 +1,15 @@
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\bin\Debug\net7.0\task.exe
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\bin\Debug\net7.0\task.deps.json
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\bin\Debug\net7.0\task.runtimeconfig.json
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\bin\Debug\net7.0\task.dll
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\bin\Debug\net7.0\task.pdb
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\task.dll
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\refint\task.dll
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\task.pdb
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+E:\Nelly\Раз\Обучаловки\Geekrains\Разработчик\Выбор специализации\BlockResults\task\obj\Debug\net7.0\ref\task.dll
