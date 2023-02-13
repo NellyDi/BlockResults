@@ -8,16 +8,39 @@
 
 Console.WriteLine("Введите количество элементов массива:");
 int n = int.Parse(Console.ReadLine()!);
-string[] array = new string[n];
-
-for(int i = 0; i < array.Length; i++)
+string[] array1 = new string[n];
+string[] array2 = new string[array1.Length];
+for(int i = 0; i < array1.Length; i++)
 {
     Console.Write($"array[{i}] = ");
-    array[i] = Console.ReadLine();
+    array1[i] = Console.ReadLine();
 }
 
-Console.WriteLine("Исходный массив:");
-for (int i = 0; i < n; i++)
+    
+void PrintArray(string[] arr)
 {
-    Console.Write(array[i] + " ");
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write($"{arr[i]} ");
+    }
 }
+
+void ResultArray(string[] arr1, string[] arr2)
+{
+    int count = 0;
+    for (int i = 0; i < arr1.Length; i++)
+    {
+        if (arr1[i].Length <=3)
+        {
+            arr2[count] = arr1[i];
+            count++;
+        }
+    }
+}
+
+ResultArray(array1, array2);
+Console.WriteLine("Исходный массив: ");
+PrintArray(array1);
+Console.WriteLine();
+Console.WriteLine("Изменённый массив: ");
+PrintArray(array2);
